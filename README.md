@@ -14,7 +14,7 @@ This project demonstrates a **mean reversion trading strategy** using historical
 ## How to Run the Code
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yamanabbare/Mean-Reversion-Strategy-Project.git
+    git clone https://github.com/yamanabbar/Mean-Reversion-Strategy-Project.git
     ```
 2. Install dependencies:
     ```bash
